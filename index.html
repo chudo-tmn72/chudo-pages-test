@@ -605,7 +605,7 @@
     }
 
     footer {
-      padding: 0 0 38px;
+      padding: 0 0 34px;
       color: #7b6171;
       font-size: 14px;
       font-weight: 680;
@@ -617,9 +617,12 @@
       gap: 16px;
       flex-wrap: wrap;
       border-top: 1px solid rgba(255, 20, 149, .13);
-      padding-bottom: 38px;
     }
-
+    .footer-inner span {
+      position: relative;
+      top: -12px;
+    }
+    
     @media (max-width: 960px) {
       .nav { display: none; }
       .hero { min-height: 620px; background-position: center; }

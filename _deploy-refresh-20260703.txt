@@ -1,4 +1,0 @@
-Deploy refresh for ЧУДО site.
-Created: 2026-07-03T17:56Z
-Purpose: trigger GitHub Pages republish after stale live site.
-Current intended landing commit includes cache-bust styles-v5.css?v=650f5f53.

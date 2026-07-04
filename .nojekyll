@@ -1,3 +1,4 @@
-# pages-refresh-20260704-1404
+# pages-refresh-20260704-1702
 # source: main/root
-# purpose: free GitHub Pages rebuild trigger
+# purpose: free GitHub Pages rebuild trigger after stale live check
+# live-check: FAQ nav still present, repo index has no FAQ

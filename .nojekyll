@@ -1,6 +1,6 @@
-# pages-refresh-20260705-0909
+# pages-refresh-20260705-1002
 # source: main/root
 # purpose: free GitHub Pages rebuild trigger after stale live check
-# live-check: live publish not confirmed by accessible tools
+# live-check: old FAQ version still served on live URL
 # target-index-sha: 200f104498c9310cc593e18a6b172cb5379468f2
 # target-marker: chudo-final-v7-20260704
